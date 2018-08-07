@@ -49,14 +49,6 @@ public class Calculator {
 
 
 
-df
-
-
-
-
-
-
-
 
 
 
