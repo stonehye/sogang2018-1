@@ -11,5 +11,6 @@ public class Calculator {
 
   public static int minus(int a, int b, Object gpu) {
     // GPU 를 이용한 연산....
+    // Code 를 추가 합니다
   }
 }
